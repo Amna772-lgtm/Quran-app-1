@@ -27,12 +27,9 @@
             android:label="Surah Content"
             android:theme="@style/AppTheme" >
 
-
-    </activity>
+        </activity>
         <activity
-            android:name=".Ayat"
-
-            >
+            android:name=".Ayat">
         </activity>
     </application>
 
